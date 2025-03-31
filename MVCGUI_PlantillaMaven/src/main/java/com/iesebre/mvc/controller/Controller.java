@@ -36,7 +36,7 @@ public class Controller {
         
         //Codi que inicilitza la vista
         //com.iesebre.mvc.view.setVisible(true);
-        loadTable(new ArrayList(), null, null);
+        //loadTable(new ArrayList(), null, null);
         
         //Codi que assigna els listeners als components de la vista
         view.getButton1().addActionListener(
